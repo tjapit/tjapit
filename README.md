@@ -1,9 +1,9 @@
 ### Hi, I'm Timothy Japit! 👋
 
+- 🥡 For employers, review access to repository with Java projects available upon request
 - 👀 I’m interested in Fullstack with MongoDB, Express, React, Node 
 - 🌱 I’m currently learning Fullstack with Spring, Java, MySQL, Angular
 - 📫 How to reach me [Email](mailto:timothy.japit@gmail.com) | [LinkedIn](https://www.linkedin.com/in/timothyjapit/)
-- 🥡 For employers, review access to repository with Java projects available upon request
 - 😊 Pronoun: He/Him/His
 
 <!---
