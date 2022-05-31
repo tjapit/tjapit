@@ -1,7 +1,7 @@
 ### Hi, I'm Timothy Japit! 👋
 
-- 🥡 For employers, please email timothy.japit@gmail.com for review access to Java projects repository  
-- 🌱 I’m currently learning Fullstack with Spring, Java, MySQL, Angular
+- 🥡 For **employers**, please email timothy.japit@gmail.com for review access to **Java projects** repository  
+- 🌱 I’m currently learning Web App development with Django
 - 📫 How to reach me [Email](mailto:timothy.japit@gmail.com) | [LinkedIn](https://www.linkedin.com/in/timothyjapit/)
 - 😊 Pronoun: He/Him/His
 
