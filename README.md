@@ -2,7 +2,7 @@
 
 _**For **employers**, please email timothy.japit@gmail.com for review access to **Java projects** repository_  
 
-- 🌱 I’m currently learning Machine Learning with Tensorflow
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me [Email](mailto:timothy.japit@gmail.com) | [LinkedIn](https://www.linkedin.com/in/timothyjapit/)
 - 😊 Pronoun: He/Him/His
 
