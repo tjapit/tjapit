@@ -1,8 +1,7 @@
 ### Hi, I'm Timothy Japit! 👋
 
-_**For **employers**, please email timothy.japit@gmail.com for review access to **Java projects** repository_  
+_**For **employers**, please email timothy.japit@gmail.com for review access to **Java** projects repository_  
 
-- 🌱 I’m currently learning Golang
 - 📫 How to reach me [Email](mailto:timothy.japit@gmail.com) | [LinkedIn](https://www.linkedin.com/in/timothyjapit/)
 - 😊 Pronoun: He/Him/His
 
