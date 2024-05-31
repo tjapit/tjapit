@@ -2,7 +2,7 @@
 
 _**For **employers**, please email timothy.japit@gmail.com for review access to **Java** projects repository_  
 
-- 📫 How to reach me [Email](mailto:timothy.japit@gmail.com) | [LinkedIn](https://www.linkedin.com/in/timothyjapit/)
+- 📫 How to reach me [Email](mailto:timothy.japit@gmail.com) | [LinkedIn](https://www.linkedin.com/in/timothyjapit/) | [My Site](https://tjapit.com)
 - 😊 Pronoun: He/Him/His
 
 <!---
